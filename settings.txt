@@ -1,0 +1,14 @@
+Minimum Words
+2
+
+Maximum Words
+3
+
+Minimum Parts Per Word
+1
+
+Maximum Parts Per Word
+2
+
+CamelCase
+false
